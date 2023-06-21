@@ -60,7 +60,7 @@ section{
 }
 
 media(max-width: 1920px) {
-    section {
+    body {
         width:1720px;
     }
     h1,h2,h3,h4{
@@ -68,7 +68,7 @@ media(max-width: 1920px) {
     }
 }
 @media(max-width: 1720px) {
-    section {
+     body  {
         width:1520px;
     }
     h1,h2,h3,h4{
@@ -76,7 +76,7 @@ media(max-width: 1920px) {
     }
 }
 @media(max-width: 1520px) {
-    section {
+     body  {
         width:1320px;
     }
     h1,h2,h3,h4{
@@ -84,7 +84,7 @@ media(max-width: 1920px) {
     }
 }
 @media(max-width: 1320px) {
-    section {
+     body  {
         width:1120px;
     }
     h1,h2,h3,h4{
@@ -92,7 +92,7 @@ media(max-width: 1920px) {
     }
 }
 @media(max-width: 1120px) {
-    section {
+     body  {
         width:920px;
     }
     h1,h2,h3,h4{
