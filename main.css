@@ -1,0 +1,60 @@
+body {
+    margin: 0px;
+    background: #1B2029;
+    color: white;
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+    width: 1920px;
+    heidth: auto;
+}
+
+
+main{
+    display: flex;
+    width: 75vw;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+section{
+    display: flex;
+    width: 25vw;
+    flex-direction: column;
+}
+
+.a1{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    align-items: end;
+    background-color: rgb(6, 43, 255);
+    width: 75vw;
+    height: 50vh;
+}
+
+.a1>button{
+    margin-left: 3vh;
+    padding: 4vh;
+    border: none;
+}
+.a2{
+    background-color: rgb(142, 0, 0);
+    width: 75vw;
+    height: 50vh;
+}
+.a3{
+    margin-top: 2.3vh;
+    background-color: rgb(255, 255, 0);
+    width: 25vw;
+    height: 25vh;
+}
+.a4{
+    background-color: rgb(60, 255, 0);
+    width: 25vw;
+    height: 25vh;
+}
+
+.logo{
+     width: 24.8vw;
+}
